@@ -1,6 +1,6 @@
 #Exercise 2
 
-#Descrição: Faça um progrmaa que leia um número inteiro e peça ao usuario para escolher a opção que deseja converter.
+#Descrição: Faça um programa que leia um número inteiro e peça ao usuario para escolher a opção que deseja converter.
 
 numero = int(input("Informe um número inteiro: "))
 

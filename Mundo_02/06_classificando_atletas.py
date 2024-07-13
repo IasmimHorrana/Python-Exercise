@@ -1,6 +1,7 @@
 #Exercise 6
 
 #Descrição: Programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade.
+
 from datetime import date
 
 atual = date.today().year

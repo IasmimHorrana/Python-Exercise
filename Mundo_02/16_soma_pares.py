@@ -1,4 +1,4 @@
-#Exercise 15
+#Exercise 16
 
 #Descrição: Desenvolva um programa que leia 6 números inteiros e mostre a soma apenas daqueles que forem par. Se o valor digitado for impar desconsidere
 soma = 0
