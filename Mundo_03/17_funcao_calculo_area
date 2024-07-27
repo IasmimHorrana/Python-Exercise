@@ -1,0 +1,15 @@
+#Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
+
+def area(largura: float, comprimento: float) -> float:
+    return largura * comprimento
+
+# Solicitando as dimensões do terreno ao usuário
+largura = float(input("Digite a largura do terreno (em metros): "))
+comprimento = float(input("Digite o comprimento do terreno (em metros): "))
+
+# Calculando a área
+resultado_area = area(largura, comprimento)
+
+# Exibindo o resultado
+print(f"A área do terreno é {resultado_area:.2f} metros quadrados.")
+
